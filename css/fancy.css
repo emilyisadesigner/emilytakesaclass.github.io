@@ -14,18 +14,19 @@
 */
 
 body {
-    background-color: #f9f9f9;
+    background-color: #89b0ae;
     padding: 20px;
 }
 
-h1, h2 {
+h1,
+h2 {
     font-family: "Fraunces", serif;
     font-weight: 400;
 }
 
 /* Blog Posts Layout */
 article {
-    background: #fff;
+    background: #faf9f9;
     padding: 25px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
@@ -42,7 +43,7 @@ article h2 a {
 }
 
 article h2 a:hover {
-    color: #0066cc;
+    color: #555b6e;
 }
 
 .post-meta {
@@ -51,6 +52,13 @@ article h2 a:hover {
     margin-bottom: 15px;
 }
 
+.read-more {
+    display: inline-block;
+    margin-top: 10px;
+    color: #89b0ae;
+    text-decoration: none;
+    font-weight: bold;
+}
 
 /* Layout Layouts */
 header {
@@ -71,7 +79,7 @@ nav a {
 }
 
 nav a:hover {
-    text-decoration: underline;
+    color: #555b6e;
 }
 
 /* Footer Layout */
