@@ -14,7 +14,7 @@
 */
 
 body {
-    background-color: #E5E6E4;
+    background-color: #fbfbf2;
     padding: 20px;
 }
 
@@ -26,10 +26,10 @@ h2 {
 
 /* Blog Posts Layout */
 article {
-    background: ##fbfbf2;
+    background: ##222;
     padding: 25px;
     border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     margin-bottom: 30px;
 }
 
@@ -52,13 +52,20 @@ article h2 a:hover {
     margin-bottom: 15px;
 }
 
-.read-more {
+/*.read-more {
     display: inline-block;
     margin-top: 10px;
     color: #ee6c4d;
     text-decoration: none;
     font-weight: bold;
+}*/
+
+/*a .button {
+    background-color: #ee6c4d;
+    border-color: #666;
 }
+had to change this in skeleton.css bc of specificity, sorry bro
+*/
 
 /* Layout Layouts */
 header {
