@@ -14,7 +14,7 @@
 */
 
 body {
-    background-color: #fffded;
+    background-color: #E5E6E4;
     padding: 20px;
 }
 
@@ -26,7 +26,7 @@ h2 {
 
 /* Blog Posts Layout */
 article {
-    background: ##fff;
+    background: ##fbfbf2;
     padding: 25px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
@@ -43,7 +43,7 @@ article h2 a {
 }
 
 article h2 a:hover {
-    color: #555b6e;
+    color: #ee6c4d;
 }
 
 .post-meta {
@@ -55,7 +55,7 @@ article h2 a:hover {
 .read-more {
     display: inline-block;
     margin-top: 10px;
-    color: #89b0ae;
+    color: #ee6c4d;
     text-decoration: none;
     font-weight: bold;
 }
@@ -74,12 +74,12 @@ header h1 {
 
 nav a {
     margin-right: 15px;
-    color: #0066cc;
+    color: #666;
     text-decoration: none;
 }
 
 nav a:hover {
-    color: #555b6e;
+    color: #ee6c4d;
 }
 
 /* Footer Layout */
