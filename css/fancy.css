@@ -14,7 +14,7 @@
 */
 
 body {
-    background-color: #fbfbf2;
+    background-color: #F0F7FA;
     padding: 20px;
 }
 
@@ -26,7 +26,7 @@ h2 {
 
 /* Blog Posts Layout */
 article {
-    background: ##222;
+    background: #fff;
     padding: 25px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
