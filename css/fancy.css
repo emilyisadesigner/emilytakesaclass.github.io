@@ -67,9 +67,9 @@ article h2 a:hover {
 had to change this in skeleton.css bc of specificity, sorry bro
 */
 .selfie-crop img {
-    overflow: hidden;
-    /*width: 250px;
-    height: 400px;*/
+    position: relative;
+    max-width: 80%;
+    margin: 3rem auto -12rem;
 }
 
 /* Layout Layouts */
