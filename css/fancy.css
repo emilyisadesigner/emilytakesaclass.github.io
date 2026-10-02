@@ -71,6 +71,7 @@ had to change this in skeleton.css bc of specificity, sorry bro
     width: 250px;
     height: 400px;
 }
+
 /* Layout Layouts */
 header {
     border-bottom: 2px solid #eaeaea;
