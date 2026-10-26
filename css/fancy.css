@@ -46,11 +46,19 @@ article h2 a:hover {
     color: #ee6c4d;
 }
 
-.sidebar {
+ul.sidebar {
     list-style-type: none;
     padding: 0;
     margin: 0;
 
+}
+
+button.sidebar {
+      /* Enforces normal text wrapping rules */
+  white-space: normal; 
+  
+  /* Breaks exceptionally long unbroken words if necessary */
+  word-wrap: break-word; 
 }
 
 .post-meta {
