@@ -53,7 +53,7 @@ ul.sidebar {
 
 }
 
-button.sidebar {
+a.sidebar {
       /* Enforces normal text wrapping rules */
   white-space: normal; 
   
