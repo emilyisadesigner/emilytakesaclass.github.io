@@ -54,10 +54,8 @@ ul.sidebar {
 }
 
 a.sidebar {
-      /* Enforces normal text wrapping rules */
   white-space: normal; 
-  
-  /* Breaks exceptionally long unbroken words if necessary */
+  height: auto
   word-wrap: break-word; 
 }
 
